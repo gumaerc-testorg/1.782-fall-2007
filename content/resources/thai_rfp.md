@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9bb4a832-31a6-6801-976c-134ee4790b2c
 resourcetype: Document
 title: Water-Supply Analysis for Mae La Refugee Camp, Thailand
 uid: de50ba2b-5fe9-382c-a8bf-f2bd023acd6a

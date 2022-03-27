@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 816a2ea3-3ef0-6d4f-fe54-f8ccd970e928
 resourcetype: Document
 title: Mae La Refugee Camp Water Supply
 uid: 08e75c12-a50a-a906-8477-4d2bd6778d72

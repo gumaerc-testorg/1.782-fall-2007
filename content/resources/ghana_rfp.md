@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9bb4a832-31a6-6801-976c-134ee4790b2c
 resourcetype: Document
 title: Household or Community-Scale Water Treatment for Low-Income Communities in
   Northern Ghana

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 816a2ea3-3ef0-6d4f-fe54-f8ccd970e928
 resourcetype: Document
 title: 'MIT Clean Water 4 All, Inc.: Final Master of Engineering Group Presentation'
 uid: 2f715571-aa5d-04a5-1e25-f849b3443305

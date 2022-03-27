@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 816a2ea3-3ef0-6d4f-fe54-f8ccd970e928
 resourcetype: Document
 title: Improved Wastewater Treatment Las Vegas, Honduras
 uid: 93d3e143-0f72-0c41-3a8a-1f05f36ed924

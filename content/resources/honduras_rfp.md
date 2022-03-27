@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9bb4a832-31a6-6801-976c-134ee4790b2c
 resourcetype: Document
 title: Wastewater Options for the City of Las Vegas, Santa Barbara, Honduras
 uid: 05462ebf-79b2-f2cc-7f7e-1c70a5db71da
