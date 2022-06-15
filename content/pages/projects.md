@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides examples of student work on the course projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -36,9 +37,9 @@ MIT Clean Water 4 All, Inc.
 Ghana
 {{< tdclose >}}
 {{< tdopen >}}
-Fall ([PDF]({{< baseurl >}}/resources/fall_ghana))
+Fall ({{% resource_link 03c19e1b-215d-cba6-f12c-98b5b525316b "PDF" %}})
 
-Spring ([PDF - 3.3 MB]({{< baseurl >}}/resources/final_ghana))
+Spring ({{% resource_link 2f715571-aa5d-04a5-1e25-f849b3443305 "PDF - 3.3 MB" %}})
 
 
 {{< tdclose >}}
@@ -55,9 +56,9 @@ Improved wastewater treatment for the city of Las Vegas
 Honduras
 {{< tdclose >}}
 {{< tdopen >}}
-Fall ([PDF]({{< baseurl >}}/resources/fall_honduras))
+Fall ({{% resource_link 9c9cfeca-ba57-ed71-9105-c6a969859715 "PDF" %}})
 
-Spring ([PDF]({{< baseurl >}}/resources/final_honduras))
+Spring ({{% resource_link 93d3e143-0f72-0c41-3a8a-1f05f36ed924 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -74,9 +75,9 @@ Mae La refugee camp water supply
 Thailand
 {{< tdclose >}}
 {{< tdopen >}}
-Fall ([PDF]({{< baseurl >}}/resources/fall_thai))
+Fall ({{% resource_link c995b192-d9e3-d31f-012c-923bff418cb4 "PDF" %}})
 
-Spring ([PDF - 1.6 MB]({{< baseurl >}}/resources/final_thai))
+Spring ({{% resource_link 08e75c12-a50a-a906-8477-4d2bd6778d72 "PDF - 1.6 MB" %}})
 
 
 {{< tdclose >}}
