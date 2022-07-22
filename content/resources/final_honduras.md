@@ -6,6 +6,7 @@ file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fa
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Improved Wastewater Treatment Las Vegas, Honduras
 uid: 93d3e143-0f72-0c41-3a8a-1f05f36ed924
 ---
 Example of student work: "Honduras Progress Presentation: Improved Wastewater Treatment for the City of Las Vegas" by Matt Hodge and Anne Mikelonis.
-

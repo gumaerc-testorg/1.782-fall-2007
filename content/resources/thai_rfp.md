@@ -7,6 +7,7 @@ file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Water-Supply Analysis for Mae La Refugee Camp, Thailand
 uid: de50ba2b-5fe9-382c-a8bf-f2bd023acd6a
 ---
 Request for Proposals, prepared by MIT faculty, provided as the initial assignment prompts for the class projects: Water-Supply Analysis for Mae La Refugee Camp, Thailand, courtesy of Peter Shanahan.
-

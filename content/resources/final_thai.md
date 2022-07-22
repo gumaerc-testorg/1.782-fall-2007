@@ -6,6 +6,7 @@ file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fa
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Mae La Refugee Camp Water Supply
 uid: 08e75c12-a50a-a906-8477-4d2bd6778d72
 ---
 Example of student work: "Mae La Refugee Camp Water Supply" by Mary Harding, Navid Rahimi, and Katherine Vater.
-

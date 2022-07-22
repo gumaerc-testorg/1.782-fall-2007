@@ -7,6 +7,7 @@ file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Wastewater Options for the City of Las Vegas, Santa Barbara, Honduras
 uid: 05462ebf-79b2-f2cc-7f7e-1c70a5db71da
 ---
 Request for Proposals, prepared by MIT faculty, provided as the initial assignment prompts for the class projects: Wastewater Options for the City of Las Vegas, Santa Barbara, Honduras, courtesy of Eric Adams.
-

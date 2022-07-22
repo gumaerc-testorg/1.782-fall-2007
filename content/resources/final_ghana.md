@@ -6,6 +6,7 @@ file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fa
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'MIT Clean Water 4 All, Inc.: Final Master of Engineering Group Presentat
 uid: 2f715571-aa5d-04a5-1e25-f849b3443305
 ---
 Example of student work: "MIT Clean Water 4 All, Inc." by Cash Fitzpatrick, Vanessa Green, Izumi Kikkawa, Tamar Losleben, and Andrew Swanton.
-
