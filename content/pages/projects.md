@@ -89,4 +89,4 @@ Mary Harding, Navid Rahimi, and Katherine Vater
 
 {{< tableclose >}}
 
-Students also wrote blogs during their January field work detailing their experiences. The blogs can be found [here](http://web.mit.edu/watsan/studentblogs.html).
+Students also wrote blogs during their January field work detailing their experiences. The blogs can be found {{% resource_link "b881bd29-26ac-4231-8f58-48b1848207f3" "here" %}}.
