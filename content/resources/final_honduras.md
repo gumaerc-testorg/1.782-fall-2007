@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work: "Honduras Progress Presentation: Improved Wastewater
   Treatment for the City of Las Vegas" by Matt Hodge and Anne Mikelonis.'
 file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2007-spring-2008/93d3e1430f720c413a8a1f05f36ed924_final_honduras.pdf
+file_size: 565574
 file_type: application/pdf
 learning_resource_types:
 - Projects
