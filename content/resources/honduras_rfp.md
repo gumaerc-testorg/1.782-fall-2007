@@ -3,7 +3,7 @@ content_type: resource
 description: 'Request for Proposals, prepared by MIT faculty, provided as the initial
   assignment prompts for the class projects: Wastewater Options for the City of Las
   Vegas, Santa Barbara, Honduras, courtesy of Eric Adams.'
-file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2007-spring-2008/05462ebf79b2f2cc7f7e1c70a5db71da_honduras_rfp.pdf
+file: /ol-ocw-studio-app/courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2007-spring-2008/05462ebf79b2f2cc7f7e1c70a5db71da_honduras_rfp.pdf
 file_size: 82498
 file_type: application/pdf
 learning_resource_types:
