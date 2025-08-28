@@ -3,7 +3,7 @@ content_type: resource
 description: 'Request for Proposals, prepared by MIT faculty, provided as the initial
   assignment prompts for the class projects: Household or Community-Scale Water Treatment
   for Low-Income Communities in Northern Ghana, courtesy of Susan Murcott.'
-file: /courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2007-spring-2008/f111bfa92847ba4ef1dc10d52f0d9cc5_ghana_rfp.pdf
+file: /ol-ocw-studio-app/courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2007-spring-2008/f111bfa92847ba4ef1dc10d52f0d9cc5_ghana_rfp.pdf
 file_size: 184080
 file_type: application/pdf
 learning_resource_types:
